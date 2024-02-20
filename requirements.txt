@@ -1,4 +1,4 @@
-git+https://github.com/SSL-ACTX/fb_cpi_777@main
+git+https://github.com/SSL-ACTX/fbchat-bot-tst@main
 requests
 openai
 bs4
