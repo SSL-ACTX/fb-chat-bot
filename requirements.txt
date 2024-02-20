@@ -1,2 +1,4 @@
 git+https://github.com/SSL-ACTX/fb_cpi_777@main
 requests
+openai
+bs4
